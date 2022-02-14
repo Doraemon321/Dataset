@@ -1,0 +1,5 @@
+Total parameters: 1502030.
+Training parameters: 1502030.
+Cross entropy loss weight
+[1. 1. 1. 1. 1. 1. 1.]
+--------0--------

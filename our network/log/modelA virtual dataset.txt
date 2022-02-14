@@ -1,0 +1,224 @@
+Total parameters: 1367758.
+Training parameters: 1367758.
+Cross entropy loss weight
+[1. 1. 1. 1. 1. 1. 1.]
+--------0--------
+Train loss: 0.746302, train acc: 0.897299, train miou: 0.582718, time used: 115.6 s
+Test loss: 0.366637, test acc: 0.970284, test miou: 0.775568, time used: 12.4 s
+Saved best.
+--------1--------
+Train loss: 0.326980, train acc: 0.958230, train miou: 0.761448, time used: 114.3 s
+Test loss: 0.201533, test acc: 0.973917, test miou: 0.833805, time used: 12.4 s
+Saved best.
+--------2--------
+Train loss: 0.208125, train acc: 0.964207, train miou: 0.802184, time used: 113.9 s
+Test loss: 0.124777, test acc: 0.979933, test miou: 0.875596, time used: 12.4 s
+Saved best.
+--------3--------
+Train loss: 0.154169, train acc: 0.967662, train miou: 0.826695, time used: 114.1 s
+Test loss: 0.096206, test acc: 0.982141, test miou: 0.895430, time used: 12.4 s
+Saved best.
+--------4--------
+Train loss: 0.126413, train acc: 0.969725, train miou: 0.841923, time used: 114.0 s
+Test loss: 0.092108, test acc: 0.977880, test miou: 0.880651, time used: 12.4 s
+--------5--------
+Train loss: 0.106116, train acc: 0.972789, train miou: 0.861865, time used: 114.0 s
+Test loss: 0.068666, test acc: 0.983953, test miou: 0.914062, time used: 12.4 s
+Saved best.
+--------6--------
+Train loss: 0.096208, train acc: 0.973850, train miou: 0.869329, time used: 114.0 s
+Test loss: 0.065771, test acc: 0.982811, test miou: 0.902211, time used: 12.4 s
+--------7--------
+Train loss: 0.088828, train acc: 0.974739, train miou: 0.874624, time used: 114.1 s
+Test loss: 0.059139, test acc: 0.982937, test miou: 0.910001, time used: 12.4 s
+--------8--------
+Train loss: 0.083260, train acc: 0.975424, train miou: 0.877140, time used: 114.1 s
+Test loss: 0.050223, test acc: 0.986078, test miou: 0.924983, time used: 12.4 s
+Saved best.
+--------9--------
+Train loss: 0.079529, train acc: 0.975727, train miou: 0.879565, time used: 114.1 s
+Test loss: 0.055115, test acc: 0.983716, test miou: 0.916465, time used: 12.4 s
+--------10--------
+Train loss: 0.072153, train acc: 0.977449, train miou: 0.891906, time used: 114.1 s
+Test loss: 0.051522, test acc: 0.985430, test miou: 0.918322, time used: 12.4 s
+--------11--------
+Train loss: 0.068350, train acc: 0.978288, train miou: 0.897727, time used: 114.1 s
+Test loss: 0.045409, test acc: 0.986144, test miou: 0.919414, time used: 12.4 s
+Saved best.
+--------12--------
+Train loss: 0.067519, train acc: 0.978083, train miou: 0.894541, time used: 114.1 s
+Test loss: 0.045862, test acc: 0.985398, test miou: 0.924581, time used: 12.4 s
+--------13--------
+Train loss: 0.066191, train acc: 0.978221, train miou: 0.894970, time used: 114.1 s
+Test loss: 0.053187, test acc: 0.984339, test miou: 0.912222, time used: 12.4 s
+--------14--------
+Train loss: 0.063894, train acc: 0.978626, train miou: 0.897352, time used: 114.1 s
+Test loss: 0.046073, test acc: 0.985313, test miou: 0.914564, time used: 12.4 s
+--------15--------
+Train loss: 0.059477, train acc: 0.979934, train miou: 0.907522, time used: 114.1 s
+Test loss: 0.040420, test acc: 0.986975, test miou: 0.926904, time used: 12.4 s
+Saved best.
+--------16--------
+Train loss: 0.058615, train acc: 0.980049, train miou: 0.907681, time used: 114.1 s
+Test loss: 0.039415, test acc: 0.987246, test miou: 0.928029, time used: 12.4 s
+Saved best.
+--------17--------
+Train loss: 0.057706, train acc: 0.980190, train miou: 0.909027, time used: 114.1 s
+Test loss: 0.041457, test acc: 0.986796, test miou: 0.931937, time used: 12.4 s
+--------18--------
+Train loss: 0.057495, train acc: 0.980123, train miou: 0.908293, time used: 114.1 s
+Test loss: 0.042619, test acc: 0.986481, test miou: 0.924573, time used: 12.4 s
+--------19--------
+Train loss: 0.055582, train acc: 0.980608, train miou: 0.911204, time used: 114.1 s
+Test loss: 0.037262, test acc: 0.987496, test miou: 0.929742, time used: 12.4 s
+Saved best.
+--------20--------
+Train loss: 0.053882, train acc: 0.981125, train miou: 0.915395, time used: 114.1 s
+Test loss: 0.038508, test acc: 0.987128, test miou: 0.926610, time used: 12.4 s
+--------21--------
+Train loss: 0.053188, train acc: 0.981222, train miou: 0.916275, time used: 114.1 s
+Test loss: 0.040675, test acc: 0.986890, test miou: 0.925983, time used: 12.4 s
+--------22--------
+Train loss: 0.052874, train acc: 0.981242, train miou: 0.916185, time used: 114.1 s
+Test loss: 0.033988, test acc: 0.988447, test miou: 0.936738, time used: 12.4 s
+Saved best.
+--------23--------
+Train loss: 0.051816, train acc: 0.981565, train miou: 0.918073, time used: 114.1 s
+Test loss: 0.036346, test acc: 0.987472, test miou: 0.927572, time used: 12.4 s
+--------24--------
+Train loss: 0.051278, train acc: 0.981649, train miou: 0.918767, time used: 114.1 s
+Test loss: 0.035273, test acc: 0.987661, test miou: 0.930363, time used: 12.4 s
+--------25--------
+Train loss: 0.050389, train acc: 0.981899, train miou: 0.920885, time used: 114.1 s
+Test loss: 0.033898, test acc: 0.987974, test miou: 0.929902, time used: 12.4 s
+--------26--------
+Train loss: 0.049872, train acc: 0.981978, train miou: 0.920710, time used: 114.1 s
+Test loss: 0.036416, test acc: 0.987313, test miou: 0.922003, time used: 12.4 s
+--------27--------
+Train loss: 0.049029, train acc: 0.982311, train miou: 0.923958, time used: 114.1 s
+Test loss: 0.034391, test acc: 0.987767, test miou: 0.930748, time used: 12.4 s
+--------28--------
+Train loss: 0.049250, train acc: 0.982195, train miou: 0.923672, time used: 114.1 s
+Test loss: 0.033758, test acc: 0.988435, test miou: 0.934963, time used: 12.4 s
+--------29--------
+Train loss: 0.049214, train acc: 0.982097, train miou: 0.922472, time used: 114.1 s
+Test loss: 0.035070, test acc: 0.988037, test miou: 0.929108, time used: 12.4 s
+--------30--------
+Train loss: 0.047739, train acc: 0.982554, train miou: 0.925660, time used: 114.1 s
+Test loss: 0.033842, test acc: 0.988397, test miou: 0.933126, time used: 12.4 s
+--------31--------
+Train loss: 0.047403, train acc: 0.982663, train miou: 0.925773, time used: 114.1 s
+Test loss: 0.034524, test acc: 0.988021, test miou: 0.930434, time used: 12.4 s
+--------32--------
+Train loss: 0.047418, train acc: 0.982686, train miou: 0.926212, time used: 114.1 s
+Test loss: 0.033428, test acc: 0.988520, test miou: 0.936061, time used: 12.4 s
+Saved best.
+--------33--------
+Train loss: 0.046966, train acc: 0.982732, train miou: 0.926741, time used: 114.1 s
+Test loss: 0.033390, test acc: 0.988351, test miou: 0.933854, time used: 12.4 s
+--------34--------
+Train loss: 0.046728, train acc: 0.982882, train miou: 0.927693, time used: 114.1 s
+Test loss: 0.034144, test acc: 0.988185, test miou: 0.933146, time used: 12.4 s
+--------35--------
+Train loss: 0.046261, train acc: 0.982915, train miou: 0.928844, time used: 114.1 s
+Test loss: 0.033989, test acc: 0.988286, test miou: 0.934721, time used: 12.4 s
+--------36--------
+Train loss: 0.045959, train acc: 0.983059, train miou: 0.929430, time used: 114.1 s
+Test loss: 0.032468, test acc: 0.988926, test miou: 0.938803, time used: 12.4 s
+Saved best.
+--------37--------
+Train loss: 0.045903, train acc: 0.983061, train miou: 0.929734, time used: 114.2 s
+Test loss: 0.032237, test acc: 0.988880, test miou: 0.937901, time used: 12.4 s
+--------38--------
+Train loss: 0.045370, train acc: 0.983172, train miou: 0.929641, time used: 114.2 s
+Test loss: 0.033377, test acc: 0.988279, test miou: 0.933016, time used: 12.4 s
+--------39--------
+Train loss: 0.045262, train acc: 0.983248, train miou: 0.930695, time used: 114.1 s
+Test loss: 0.032302, test acc: 0.988859, test miou: 0.938541, time used: 12.4 s
+--------40--------
+Train loss: 0.045161, train acc: 0.983288, train miou: 0.931210, time used: 114.4 s
+Test loss: 0.032689, test acc: 0.988746, test miou: 0.937337, time used: 12.5 s
+--------41--------
+Train loss: 0.045108, train acc: 0.983214, train miou: 0.930768, time used: 114.5 s
+Test loss: 0.034304, test acc: 0.988104, test miou: 0.931315, time used: 12.5 s
+--------42--------
+Train loss: 0.044984, train acc: 0.983329, train miou: 0.931146, time used: 114.5 s
+Test loss: 0.032393, test acc: 0.988796, test miou: 0.936416, time used: 12.5 s
+--------43--------
+Train loss: 0.044852, train acc: 0.983313, train miou: 0.931128, time used: 114.5 s
+Test loss: 0.032943, test acc: 0.988815, test miou: 0.936376, time used: 12.5 s
+--------44--------
+Train loss: 0.044777, train acc: 0.983306, train miou: 0.931087, time used: 114.5 s
+Test loss: 0.033778, test acc: 0.988530, test miou: 0.934940, time used: 12.5 s
+--------45--------
+Train loss: 0.044269, train acc: 0.983454, train miou: 0.932426, time used: 114.4 s
+Test loss: 0.033752, test acc: 0.988484, test miou: 0.934087, time used: 12.5 s
+--------46--------
+Train loss: 0.044335, train acc: 0.983445, train miou: 0.932108, time used: 114.4 s
+Test loss: 0.032769, test acc: 0.988842, test miou: 0.936621, time used: 12.5 s
+--------47--------
+Train loss: 0.043946, train acc: 0.983560, train miou: 0.933098, time used: 114.5 s
+Test loss: 0.033489, test acc: 0.988663, test miou: 0.934764, time used: 12.5 s
+--------48--------
+Train loss: 0.043971, train acc: 0.983541, train miou: 0.932471, time used: 114.5 s
+Test loss: 0.033389, test acc: 0.988580, test miou: 0.934232, time used: 12.5 s
+--------49--------
+Train loss: 0.043959, train acc: 0.983560, train miou: 0.932942, time used: 114.4 s
+Test loss: 0.032732, test acc: 0.988773, test miou: 0.936089, time used: 12.5 s
+--------50--------
+Train loss: 0.043636, train acc: 0.983719, train miou: 0.934319, time used: 114.4 s
+Test loss: 0.032507, test acc: 0.988924, test miou: 0.937558, time used: 12.5 s
+--------51--------
+Train loss: 0.043544, train acc: 0.983639, train miou: 0.934734, time used: 114.4 s
+Test loss: 0.033149, test acc: 0.988594, test miou: 0.935350, time used: 12.5 s
+--------52--------
+Train loss: 0.043583, train acc: 0.983710, train miou: 0.933822, time used: 114.4 s
+Test loss: 0.032878, test acc: 0.988731, test miou: 0.935174, time used: 12.5 s
+--------53--------
+Train loss: 0.043651, train acc: 0.983616, train miou: 0.933444, time used: 114.5 s
+Test loss: 0.033156, test acc: 0.988554, test miou: 0.934891, time used: 12.5 s
+--------54--------
+Train loss: 0.043722, train acc: 0.983595, train miou: 0.933247, time used: 114.5 s
+Test loss: 0.032890, test acc: 0.988733, test miou: 0.935435, time used: 12.5 s
+--------55--------
+Train loss: 0.043417, train acc: 0.983668, train miou: 0.934102, time used: 114.5 s
+Test loss: 0.033430, test acc: 0.988621, test miou: 0.933791, time used: 12.5 s
+--------56--------
+Train loss: 0.043324, train acc: 0.983748, train miou: 0.934755, time used: 114.4 s
+Test loss: 0.032679, test acc: 0.988866, test miou: 0.936717, time used: 12.5 s
+--------57--------
+Train loss: 0.043579, train acc: 0.983651, train miou: 0.934163, time used: 114.4 s
+Test loss: 0.033248, test acc: 0.988655, test miou: 0.933944, time used: 12.5 s
+--------58--------
+Train loss: 0.043198, train acc: 0.983754, train miou: 0.934695, time used: 114.4 s
+Test loss: 0.032514, test acc: 0.988912, test miou: 0.937562, time used: 12.5 s
+--------59--------
+Train loss: 0.043265, train acc: 0.983744, train miou: 0.934940, time used: 114.4 s
+Test loss: 0.032835, test acc: 0.988800, test miou: 0.936616, time used: 12.5 s
+--------60--------
+Train loss: 0.042887, train acc: 0.983852, train miou: 0.935176, time used: 114.4 s
+Test loss: 0.033136, test acc: 0.988677, test miou: 0.936250, time used: 12.5 s
+--------61--------
+Train loss: 0.043007, train acc: 0.983772, train miou: 0.935203, time used: 114.5 s
+Test loss: 0.032418, test acc: 0.988957, test miou: 0.938094, time used: 12.5 s
+Saved best.
+--------62--------
+Train loss: 0.043147, train acc: 0.983714, train miou: 0.934558, time used: 114.4 s
+Test loss: 0.032833, test acc: 0.988724, test miou: 0.935294, time used: 12.5 s
+--------63--------
+Train loss: 0.043059, train acc: 0.983807, train miou: 0.934806, time used: 114.4 s
+Test loss: 0.032906, test acc: 0.988857, test miou: 0.936464, time used: 12.5 s
+--------64--------
+Train loss: 0.043344, train acc: 0.983717, train miou: 0.934215, time used: 114.4 s
+Test loss: 0.032319, test acc: 0.988975, test miou: 0.937371, time used: 12.5 s
+Saved best.
+--------65--------
+Train loss: 0.042957, train acc: 0.983796, train miou: 0.935084, time used: 114.4 s
+Test loss: 0.032719, test acc: 0.988885, test miou: 0.937659, time used: 12.5 s
+--------66--------
+Train loss: 0.043028, train acc: 0.983808, train miou: 0.935589, time used: 114.5 s
+Test loss: 0.033490, test acc: 0.988575, test miou: 0.933443, time used: 12.5 s
+--------67--------
+Train loss: 0.042966, train acc: 0.983758, train miou: 0.934594, time used: 114.5 s
+Test loss: 0.032458, test acc: 0.988887, test miou: 0.936480, time used: 12.5 s
+Best loss: 0.032237 in 37 epoch, best acc: 0.988975 and miou: 0.937371 in 64 epoch
