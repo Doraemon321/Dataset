@@ -1,0 +1,13 @@
+The files "data0.h5", "data1.h5", ..., "data19.h5" are virtual dataset. There are 5120 simulated point cloud scenes totally, and there are 256 scene point clouds in each file. The data in the first sixteen files are used as the training dataset, while that in the last four file are used as the test dataset.
+
+The files "data_r0.h5", "data_r1.h5", "data_r2.h5", "data_r3.h5" and "data_r4.h5" are real dataset. There are 400 point clouds captured by depth cameras in industrial scenes, and there are 80 scene point clouds in each file. The data in the first four files are used as the training dataset, while that in the last file are used as the test dataset.
+
+The files "data_diffi0.h5" and "data_diffi1.h5" are difficult dataset. There are 290 point clouds captured by depth cameras in industrial scenes. In these scenes, people and robots are close to each other, which increases the difficulty of segmentation. The file "data_diffi0.h5" contains 232 scenes as training dataset, and the file "data_diffi1.h5" contains 58 scenes as test dataset. But in fact, we did not use these two datasets to train the network in our paper. Interested readers can also try to use these two data sets to train the network.
+
+The file "data_diffi.h5" combines the data in the file "data_diffi0.h5" and "data_diffi1.h5". This file is used to test the performance of the networks.
+
+In these files, each scene point cloud contains 8192 points. However, only 2048 points are needed in the experiment, so random down sampling will be adopted in the experiment. In addition to random down sampling, the files also directly provides the down sampling point cloud obtained by using the farthest point sampling. In these point cloud data, the points in the scenes will be marked into 7 categories: background object, robot 1, robot 2, workpiece, human, AGV, and other flying obstacle. The objects of these 7 categories are labeled with numbers from 0 to 6.
+
+In these files, the group "data" are the actual point clouds, and the group "scene" are the corresponding simulated point clouds. The group "label" are the corresponding segmentation labels. The point cloud data sampled by farthest point sampling is the same, except that the group name are prefixed with "fps_".
+
+Finally, the file "data_approach.h5" is the data used in the people approach experiment. There are only 7 scenes in it. These scenes are continuous in time.
